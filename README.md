@@ -35,33 +35,21 @@ Simply clone the repository to your local machine
 https://github.com/PeJiR/Kaggle.git
 ```
 ## Courses
-- Python:Learn the most important language for data science.
-- Intro to Machine Learning: Learn the core ideas in machine learning, and build your first models.
-- Pandas:Solve short hands-on challenges to perfect your data manipulation skills.
-Intermediate Machine Learning
-Handle missing values, non-numeric values, data leakage, and more.
-Feature Engineering
-Better features make better models. Discover how to get the most out of your data.
-Intro to SQL
-Learn SQL for working with databases, using Google BigQuery.
-Advanced SQL
-Take your SQL skills to the next level.
-Intro to Deep Learning
-Use TensorFlow and Keras to build and train neural networks for structured data.
-Computer Vision
-Build convolutional neural networks with TensorFlow and Keras.
-Time Series
-Apply machine learning to real-world forecasting tasks.
-Data Cleaning
-Master efficient workflows for cleaning real-world, messy data.
-Intro to AI Ethics
-Explore practical tools to guide the moral design of AI systems.
-Geospatial Analysis
-Create interactive maps, and discover patterns in geospatial data.
-Machine Learning Explainability
-Extract human-understandable insights from any model.
-Intro to Game AI and Reinforcement Learning
-Build your own video game bots, using classic and cutting-edge algorithms.
+- **Python:** Learn the most important language for data science.
+- **Intro to Machine Learning:** Learn the core ideas in machine learning, and build your first models.
+- **Pandas:** Solve short hands-on challenges to perfect your data manipulation skills.
+- **Intermediate Machine Learning**: Handle missing values, non-numeric values, data leakage, and more.
+- **Feature Engineering**: Better features make better models. Discover how to get the most out of your data.
+- **Intro to SQL**: Learn SQL for working with databases, using Google BigQuery.
+- **Advanced SQL**:Take your SQL skills to the next level.
+- **Intro to Deep Learning**: Use TensorFlow and Keras to build and train neural networks for structured data.
+- **Computer Vision**: Build convolutional neural networks with TensorFlow and Keras.
+- **Time Series**: Apply machine learning to real-world forecasting tasks.
+- **Data Cleaning**: Master efficient workflows for cleaning real-world, messy data.
+- **Intro to AI Ethics**: Explore practical tools to guide the moral design of AI systems.
+- **Geospatial Analysis**: Create interactive maps, and discover patterns in geospatial data.
+- **Machine Learning Explainability**: Extract human-understandable insights from any model.
+- **Intro to Game AI and Reinforcement Learning**: Build your own video game bots, using classic and cutting-edge algorithms.
 
 
 ## Author
