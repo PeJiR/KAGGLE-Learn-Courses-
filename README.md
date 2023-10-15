@@ -23,9 +23,9 @@
 > Project description: Gain the skills you need to do independent data science projects.
  
 
-<!---
-### 🏠 [Homepage](pejir)
 
+### 🏠 [Homepage](https://www.kaggle.com/robertoperezjimenenz)
+<!---
 ### ✨ [Demo](pejir)
 --->
 
@@ -33,7 +33,7 @@
 Simply clone the repository to your local machine
 
 ```sh
-pejir
+https://github.com/PeJiR/Kaggle.git
 ```
 
 ## Usage
