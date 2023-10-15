@@ -19,7 +19,7 @@
   </a>
 </p>
 --->
-> Project description: Gain the skills you need to do independent data science projects.
+> Gain the skills you need to do independent data science projects.
  
 
 
